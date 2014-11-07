@@ -15,7 +15,7 @@ How to use
 Clone the repository:
 
 ```shell
-$ git@github.com:leopoldkwok/fizzbuzz_javascript.git
+$ git clone git@github.com:leopoldkwok/fizzbuzz_javascript.git
 ```
 
 Change directory:
