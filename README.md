@@ -4,7 +4,7 @@ Fizzbuzz in Javascript
 This project consists of writing Fizzbuzz in javascript.
 
 Technologies used:
-------------------
+-------------------
 
 * Javascript
 * Jasmine
